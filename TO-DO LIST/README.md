@@ -16,3 +16,6 @@ This app helps users efficiently manage their daily tasks — add, edit, mark as
 - **JavaScript (ES6+)**
 - **HTML5**
 - **CSS3**
+
+## 🌐 Live Demo
+View the Project
