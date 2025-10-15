@@ -17,4 +17,4 @@ This app helps users efficiently manage their daily tasks — add, edit, mark as
 - **CSS3**
 
 # 🌐 Live Demo
-[View the Project]()
+[View the Project](https://luminous-pie-547fdd.netlify.app/)
