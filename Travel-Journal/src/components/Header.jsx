@@ -1,3 +1,5 @@
+import globe from "../assets/globe.png"
+
 function Header() {
   return (
     <header>
@@ -8,5 +10,6 @@ function Header() {
 }
 
 export default Header;
+
 
 
